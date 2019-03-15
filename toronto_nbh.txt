@@ -1,0 +1,231 @@
+Downtown core (central):
+Alexandra Park, Toronto
+The Annex, Toronto
+Baldwin Village,Toronto
+Cabbagetown, Toronto
+CityPlace, Toronto
+Chinatown, Toronto
+Church and Wellesley, Toronto
+Corktown, Toronto
+Discovery District,Toronto
+Distillery District,Toronto
+Toronto Entertainment District,Toronto
+East Bayfront,Toronto
+Fashion District, Toronto
+Financial District, Toronto
+Garden District, Toronto
+Grange Park (neighbourhood),Toronto
+Harbord Village,Toronto
+Harbourfront (Toronto),Toronto
+Kensington Market,Toronto
+Little Japan, Toronto
+Moss Park,Toronto
+Old Town, Toronto
+Quayside, Toronto
+Queen Street West,Toronto
+Regent Park,Toronto
+South Core, Toronto
+St. James Town,Toronto
+St. Lawrence, Toronto
+Toronto Islands,Toronto
+Trefann Court,Toronto
+University of Toronto,Toronto
+Yorkville, Toronto
+
+East End:
+The Beaches,Toronto
+East Danforth,Toronto
+Gerrard Street (Toronto),Toronto
+Gerrard India Bazaar,Toronto
+Greektown, Toronto
+Leslieville,Toronto
+Main Square (Toronto), Toronto
+Playter Estates,Toronto
+Port Lands,Toronto
+Riverdale, Toronto
+Upper Beaches,Toronto
+
+North End:
+Bedford Park, Toronto
+Casa Loma (neighbourhood),Toronto
+Chaplin Estates,Toronto
+Davisville Village,Toronto
+Deer Park, Toronto
+Forest Hill, Toronto
+Lawrence Park, Toronto
+Lytton Park,Toronto
+Midtown, Toronto
+Moore Park, Toronto
+North Toronto,Toronto
+Rosedale, Toronto
+South Hill, Toronto
+Summerhill, Toronto
+Wanless Park,Toronto
+Wychwood Park,Toronto
+Yonge–Eglinton,Toronto
+
+West End:
+Beaconsfield Village, Toronto
+Bloor West Village,Toronto
+Bracondale Hill,Toronto
+Brockton Village,Toronto
+Carleton Village,Toronto
+Corso Italia (Toronto),Toronto
+Davenport, Toronto
+Dovercourt Park,Toronto
+Dufferin Grove,Toronto
+Earlscourt,Toronto
+Fort York (neighbourhood),Toronto
+High Park North,Toronto
+The Junction,Toronto
+Malta,Toronto
+Junction Triangle,Toronto
+Koreatown, Toronto
+Liberty Village,Toronto
+Little Italy, Toronto
+Little Portugal, Toronto
+Little Tibet, Toronto
+Palmerston–Little Italy, Toronto
+Niagara, Toronto
+Palmerston–Little Italy,Toronto
+Parkdale, Toronto
+Queen Street West,Toronto
+Roncesvalles, Toronto
+Runnymede, Toronto
+Seaton Village,Toronto
+Swansea, Toronto
+Trinity–Bellwoods,Toronto
+Wallace Emerson,Toronto
+
+Old East York:
+Broadview North,Toronto
+Crescent Town,Toronto
+East Danforth,Toronto
+Pape Village,Toronto
+Woodbine Heights,Toronto
+
+Suburban East York:
+Bermondsey, Toronto
+Governor's Bridge, Toronto
+Leaside,Toronto
+O'Connor–Parkview,Toronto
+Thorncliffe Park,Toronto
+
+Etobicoke:
+Alderwood, Toronto
+Eringate,Toronto
+Clairville, Toronto,Toronto
+Eatonville, Toronto
+The Elms, Toronto
+Humber Heights – Westmount, Toronto
+Humber Valley Village, Toronto
+Humberwood, Toronto
+Islington–City Centre West, Toronto
+Kingsview Village, Toronto
+The Kingsway, Toronto
+Long Branch, Toronto
+Markland Wood, Toronto
+Mimico, Toronto
+New Toronto, Toronto
+Princess Gardens, Toronto
+Rexdale, Toronto
+Richview, Toronto
+Smithfield, Toronto
+Stonegate-Queensway, Toronto
+Sunnylea, Toronto
+Thistletown, Toronto
+Thorncrest Village, Toronto
+West Humber-Clairville, Toronto
+West Deane Park, Toronto
+Willowridge, Toronto
+
+Noth York:
+Amesbury, Toronto
+Armour Heights, Toronto
+Bathurst Manor, Toronto
+Bayview Village, Toronto
+Bayview Woods – Steeles,Toronto
+Bermondsey, Toronto
+Black Creek, Toronto
+Bridle Path, Toronto
+Clanton Park, Toronto
+Don Mills, Toronto
+Don Valley Village, Toronto
+Downsview, Toronto
+Flemingdon Park, Toronto
+Glen Park, Toronto
+Henry Farm, Toronto
+Hillcrest Village, Toronto
+Hoggs Hollow, Toronto
+Humber Summit, Toronto
+Humbermede, Toronto
+Jane and Finch, Toronto
+Lansing, Toronto
+Lawrence Heights, Toronto
+Lawrence Manor, Toronto
+Ledbury Park, Toronto
+Maple Leaf, Toronto
+Newtonbrook, Toronto
+North York City Centre, Toronto
+Parkway Forest, Toronto
+Parkwoods, Toronto
+The Peanut, Toronto
+Pelmo Park – Humberlea, Toronto
+Pleasant View, Toronto
+Uptown Toronto, Toronto
+Victoria Village, Toronto
+Westminster–Branson, Toronto
+Willowdale, Toronto
+York Mills, Toronto
+York University Heights, Toronto
+
+Scarborough:
+Agincourt, Toronto
+Armadale, Ontario
+Bendale, Toronto
+Birch Cliff, Toronto
+Brown's Corners, Toronto
+Clairlea, Toronto
+Cliffside, Toronto
+Cliffcrest, Toronto
+Dorset Park, Toronto
+Eglinton East, Toronto
+Golden Mile, Toronto
+Guildwood, Toronto
+Highland Creek, Toronto
+Ionview, Toronto
+L'Amoreaux, Toronto
+Malvern, Toronto
+Maryvale, Toronto
+Milliken, Ontario
+Morningside, Toronto
+Morningside Heights, Toronto
+Oakridge, Toronto
+Port Union, Toronto
+Rouge, Toronto
+Scarborough City Centre, Toronto
+Scarborough Junction, Toronto
+Scarborough Village, Toronto
+Steeles, Toronto
+Tam O'Shanter – Sullivan, Toronto
+West Hill, Toronto
+West Rouge, Toronto
+Wexford, Toronto
+Woburn, Toronto
+
+York:
+Baby Point, Toronto
+Briar Hill–Belgravia, Toronto
+Eglinton West, Toronto
+Jamaica, Toronto
+Fairbank, Toronto
+Humewood–Cedarvale, Toronto
+Lambton, Toronto
+Mount Dennis, Toronto
+Oakwood–Vaughan, Toronto
+Old Mill, Toronto
+Rockcliffe–Smythe, Toronto
+Silverthorn, Toronto
+Tichester, Toronto
+Weston, Toronto
+
